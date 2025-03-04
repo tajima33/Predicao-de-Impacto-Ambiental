@@ -1,4 +1,5 @@
 Predição do Impacto Ambiental de Barragens de Mineração no Brasil 🌎⛏️
+
 Este repositório contém um projeto de aprendizado de máquina voltado para a previsão do impacto ambiental de barragens de mineração no território brasileiro. Utilizando o modelo Random Forest e KNN, a abordagem busca identificar padrões e fornecer insights sobre os riscos ambientais associados a diferentes barragens, contribuindo para a tomada de decisão mais informada e a mitigação de possíveis danos ambientais.
 
 📌 Objetivo
