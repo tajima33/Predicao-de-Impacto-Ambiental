@@ -21,12 +21,14 @@ Exploração dos dados: Análise estatística e visualizações para entender co
 Treinamento do modelo: Implementação do algoritmo Random Forest e KNN para prever o impacto ambiental das barragens.
 Avaliação do modelo: Uso de métricas como Acurácia, Precisão, Recall e Matriz de Confusão para validar a performance do modelo.
 Interpretação dos resultados: Identificação das variáveis mais relevantes para a predição.
+
 🚀 Tecnologias Utilizadas
 Linguagem: Python
 Bibliotecas: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Plotly
 Modelagem: Random Forest, KNN
 Ambiente: Jupyter Notebook / Google Colab
-🔍 Resultados E
+
+🔍 Resultados 
 Um modelo preditivo robusto para estimar o impacto ambiental de barragens de mineração.
 Relatórios e visualizações que evidenciam os principais fatores de risco.
 Um framework que pode ser expandido para outros contextos ambientais e regulatórios.
